@@ -1,0 +1,16 @@
+<details class="recipe-card">
+  <summary class="recipe-summary">
+    <span class="recipe-title">{{ .Get "name" }}</span>
+    {{- $cal := .Get "cal" -}}
+    {{- $hasMacros := or (.Get "p") (.Get "c") (.Get "f") -}}
+    {{- if or $cal $hasMacros }}
+    <span class="recipe-meta">
+      {{- with $cal }}<span class="recipe-cal">{{ . }} kcal</span>{{ end -}}
+      {{- if $hasMacros }}<span class="recipe-macros">({{ .Get "p" }}P · {{ .Get "c" }}C · {{ .Get "f" }}F)</span>{{ end -}}
+    </span>
+    {{- end }}
+  </summary>
+  <div class="recipe-content">
+    {{ .Inner | markdownify }}
+  </div>
+</details>
