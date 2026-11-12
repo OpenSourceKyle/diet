@@ -1,5 +1,8 @@
 ---
 title: "Recipe Index"
+build:
+  render: never
+  list: never
 ---
 
 ## Daily Schedule
