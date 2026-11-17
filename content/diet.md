@@ -1,5 +1,5 @@
 ---
-title: "Recipe Index"
+title: "Diet & Recipe Index"
 build:
   render: never
   list: never
@@ -7,250 +7,249 @@ build:
 
 ## Daily Schedule
 
-{{< recipe name="0700: Hydration" >}}
-* Water + salt
+{{< recipe name="0615 - 0715: Wake & Adrenal Hydration" >}}
+* 750ml water + pinch of sea salt (essential for cellular hydration and morning cortisol balance)
 {{< /recipe >}}
 
-{{< recipe name="0900: Breakfast" >}}
-* Small coffee
-    * Barely cover bottom of cup with coffee
-* Small oatmeal
-    * Small portion of oatmeal
-    * Coconut oil
-    * 1 scoop of Mutant protein powder
-    * Water
-    * Salt
-* Supplements
-    * Multivitamin
-    * Fish oil
-    * Vitamin D
+{{< recipe name="0715 - 0730: Pre-Workout Stim" >}}
+* Black coffee or 50-100 caffeine tablet
+* 0 calories
+* Delay caffeine until to allow adenosine to clear naturally
 {{< /recipe >}}
 
-{{< recipe name="1200: Snack" >}}
-* 1 banana
-* Protein powder goop
+{{< recipe name="0830 - 0945: Training Session" >}}
+* Gym / Lifting
 {{< /recipe >}}
 
-{{< recipe name="1400: Lunch" >}}
-* Jungle bowl
-    * Meat + eggs + vegetables + salsa
-* Baby carrots
+{{< recipe name="1015 - 1030: Post-Workout Fuel (Break-Fast)" >}}
+* **Standard Daily Post-Workout:**
+    * 2 whole eggs
+    * 150g lean ground beef mix (with light mixed vegetables)
+    * 2-3 tbsp plain Greek yogurt
+    * 1 banana
+* *Biochemically optimal: muscle glycogen replenishment without causing brain fog.*
 {{< /recipe >}}
 
-{{< recipe name="1800: Dinner" >}}
-* Jungle bowl
-    * Meat + eggs + vegetables + salsa
-* Baby carrots
+{{< recipe name="1330: Lunch (Zero-Crash / High Focus)" >}}
+* **Protocol:** Strictly High Protein + Moderate Fat + Fibrous Greens. 
+* Avoid starches/grains here to eliminate the 1400 afternoon slump.
+* Choose any meal from the **Daytime / Low-Carb** database below.
 {{< /recipe >}}
 
-## Nutrition
-
-* **Calories:** 2,720
-* **Protein:** ~204g
-* **Carbohydrates:** ~306g
-* **Fats:** ~76g
-
-## Meal Database
-
-{{< recipe name="The Jungler Special" cal="~450" p="45g" c="50g" f="10g" >}}
-* Ground beef
-* Eggs
-* Plantains
-* Avocado
-* Honey
+{{< recipe name="1800: Dinner (Volume & Recovery Refeed)" >}}
+* **Protocol:** Largest volume meal of the day. Satisfies hunger, supports deep sleep by 2130, and primes muscles for tomorrow's 0830 session.
+* Choose any meal from the **Evening / Volume Carbs** database below.
+* Finish eating by 1845 to allow ~3 hours of digestion before sleep at 2130.
 {{< /recipe >}}
 
-{{< recipe name="Grilled Chicken with Quinoa and Vegetables" cal="~450" p="45g" c="50g" f="10g" >}}
-* 150g grilled chicken breast
-* 1/2 cup cooked quinoa
-* 1 cup steamed broccoli and carrots
+## Daily Macro Targets
+
+* **Target Calories:** ~2,400 kcal *(Gentle recomp)*
+* **Protein:** 195g – 205g (~1.15g/lb bodyweight)
+* **Carbohydrates:** 140g – 160g
+* **Fats:** 75g – 85g
+
+---
+
+## ☀️ Daytime / Low-Carb Meals (Lunches & Brain Focus)
+*Use these for Lunch to guarantee no afternoon brain fog or energy crashes.*
+
+{{< recipe name="The Jungler Special (Daytime Low-Carb Edition)" cal="~450" p="45g" c="8g" f="22g" >}}
+* 150g lean ground beef
+* 2 whole eggs
+* 1/4 avocado
+* Sautéed zucchini or spinach (subbed for plantains/honey to prevent afternoon slump)
+* Salsa verde to taste
+{{< /recipe >}}
+
+{{< recipe name="Egg White Omelette with Spinach & Avocado" cal="~380" p="34g" c="6g" f="18g" >}}
+* 4 egg whites + 1 whole egg
+* 1.5 cups sautéed spinach & mushrooms
+* 1/4 avocado
+* Drizzle of hot sauce
+{{< /recipe >}}
+
+{{< recipe name="Tuna Salad Lettuce Boats" cal="~360" p="40g" c="6g" f="14g" >}}
+* 1.5 cans tuna (in water, drained)
+* 1/4 avocado (mashed into tuna with mustard, lemon juice, salt, and pepper)
+* Served in crisp romaine lettuce boats
+* Sliced cucumber and tomatoes on the side
+{{< /recipe >}}
+
+{{< recipe name="Turkey Meatballs with Zucchini Noodles" cal="~400" p="42g" c="12g" f="14g" >}}
+* 170g lean turkey meatballs
+* 2 cups zucchini noodles (spiralized)
+* 1/2 cup marinara sauce
+* 1 tsp olive oil
+{{< /recipe >}}
+
+{{< recipe name="Shrimp Salad with Avocado Salsa" cal="~420" p="38g" c="10g" f="16g" >}}
+* 175g grilled shrimp
+* 2 cups mixed greens
+* 1/4 avocado diced with tomatoes, red onion, cilantro, and lime
+* Light olive oil drizzle (skip corn tortillas for daytime alertness)
+{{< /recipe >}}
+
+{{< recipe name="Chicken & Hummus Green Plate" cal="~440" p="44g" c="14g" f="16g" >}}
+* 170g grilled chicken breast
+* 3 tbsp hummus
+* Cucumber slices, celery sticks, and bell pepper strips
+* Handful of olives (skip the pita bread during the day)
+{{< /recipe >}}
+
+{{< recipe name="Beef & Broccoli Skillet" cal="~460" p="42g" c="12g" f="18g" >}}
+* 160g lean beef strips
+* 2 cups steamed/sautéed broccoli florets
+* 1 tbsp low-sodium soy sauce, garlic, and ginger
+* 1 tsp sesame oil
+{{< /recipe >}}
+
+{{< recipe name="Greek Yogurt, Berries & Almonds (Power Snack)" cal="~330" p="26g" c="22g" f="10g" >}}
+* 1 cup plain non-fat Greek yogurt
+* 1/2 cup fresh blueberries or raspberries
+* 10 raw almonds (chopped)
+{{< /recipe >}}
+
+{{< recipe name="Cottage Cheese with Walnuts & Cinnamon" cal="~320" p="30g" c="10g" f="12g" >}}
+* 1 cup low-fat cottage cheese
+* 10g crushed walnuts
+* Dash of ground cinnamon (helps insulin sensitivity)
+* *Note: Save pineapple chunks for evening dinner refeeds.*
+{{< /recipe >}}
+
+---
+
+## 🌙 Evening / Volume Carbs (Dinners & Sleep Refeeds)
+*Use these for Dinner to satisfy volume hunger, reload muscle glycogen, and support deep sleep.*
+
+{{< recipe name="Turkey & Black Bean Chili" cal="~520" p="45g" c="50g" f="12g" >}}
+* 180g lean ground beef or turkey
+* 1 cup black beans (or Charro beans)
+* 1/2 onion & 2 cloves garlic
+* 1 cup tomato puree / diced tomatoes
+* Cumin, salt, paprika, carne asada seasoning
+{{< /recipe >}}
+
+{{< recipe name="Salmon with Sweet Potato & Asparagus" cal="~580" p="38g" c="50g" f="20g" >}}
+* 160g grilled salmon fillet
+* 1 medium sweet potato (baked, skin-on)
+* 1.5 cups roasted asparagus with lemon
+{{< /recipe >}}
+
+{{< recipe name="Grilled Steak with Sweet Potato Fries & Kale Salad" cal="~580" p="42g" c="52g" f="18g" >}}
+* 160g lean sirloin or flank steak
+* 1 medium sweet potato (cut into fries, baked with light salt)
+* 1.5 cups kale salad with lemon juice and 1 tsp olive oil
+{{< /recipe >}}
+
+{{< recipe name="Grilled Chicken with Quinoa & Steamed Vegetables" cal="~480" p="46g" c="48g" f="10g" >}}
+* 170g grilled chicken breast
+* 3/4 cup cooked quinoa
+* 1.5 cups steamed broccoli and carrots
 * Drizzle of olive oil
 {{< /recipe >}}
 
-{{< recipe name="Turkey Chili" cal="~500" p="40g" c="45g" f="15g" >}}
-* 1 cebolla
-* 2 ajos
-* 1/2 kg molida de res
-* 2 cups de salsa de tomate
-* 2 cups de Frijoles
-* 2 cups de agua
-* **Especias:**
-    * comino
-    * sal
-    * paprika
-    * sazonador para carne asada
+{{< recipe name="Beef Fajitas with Corn Tortillas & Peppers" cal="~510" p="42g" c="45g" f="14g" >}}
+* 160g lean beef strips
+* 1 cup sautéed bell peppers and onions
+* 2 small warm corn tortillas
+* Salsa de habanero y tomate verde
 {{< /recipe >}}
 
-{{< recipe name="Greek Yogurt with Berries and Almonds" cal="~350" p="25g" c="40g" f="10g" >}}
-* 1 cup plain Greek yogurt
-* 1/2 cup mixed berries
-* 10 almonds (chopped)
+{{< recipe name="Chicken Fajita Rice Bowl" cal="~520" p="44g" c="55g" f="10g" >}}
+* 170g grilled chicken breast
+* 1/2 cup cooked black beans
+* 1/2 cup cooked white or brown rice
+* 1/4 cup corn & 2 tbsp fresh salsa
+* Shredded lettuce base
 {{< /recipe >}}
 
-{{< recipe name="Salmon with Sweet Potato and Asparagus" cal="~600" p="35g" c="60g" f="25g" >}}
-* 150g grilled salmon
-* 1 medium sweet potato (baked)
-* 1 cup roasted asparagus
+{{< recipe name="Baked Cod with Lentils & Spinach" cal="~480" p="42g" c="45g" f="10g" >}}
+* 180g baked cod or white fish
+* 3/4 cup cooked green/brown lentils
+* 2 cups sautéed spinach with garlic and olive oil
+* Fresh lemon juice
 {{< /recipe >}}
 
-{{< recipe name="Egg White Omelette with Spinach and Avocado" cal="~400" p="30g" c="30g" f="15g" >}}
-* 4 egg whites
-* 1 whole egg
-* 1 cup spinach (sautéed)
-* 1/4 avocado
+{{< recipe name="Grilled Pork Tenderloin with Rice & Green Beans" cal="~520" p="42g" c="50g" f="12g" >}}
+* 170g grilled lean pork tenderloin
+* 3/4 cup cooked jasmine or brown rice
+* 1.5 cups steamed green beans
 {{< /recipe >}}
 
-{{< recipe name="Beef Stir-Fry with Brown Rice" cal="~550" p="40g" c="65g" f="15g" >}}
-* 150g lean beef strips
-* 1 cup cooked brown rice
-* 1 cup mixed stir-fry vegetables
-* Soy sauce (low-sodium)
-{{< /recipe >}}
-
-{{< recipe name="Protein Smoothie with Oats" cal="~450" p="40g" c="55g" f="8g" >}}
-* 1 scoop protein powder
-* 1/2 banana
-* 1/2 cup oats
-* 1 tablespoon peanut butter
-* 1 cup almond milk
-{{< /recipe >}}
-
-{{< recipe name="Chicken and Whole Wheat Pasta" cal="~500" p="45g" c="55g" f="10g" >}}
-* 150g grilled chicken breast
+{{< recipe name="Chicken & Whole Wheat Marinara Pasta" cal="~510" p="46g" c="52g" f="9g" >}}
+* 170g grilled chicken breast
 * 1 cup cooked whole wheat pasta
-* 1/2 cup marinara sauce
-* Steamed spinach
+* 1/2 cup low-sugar marinara sauce
+* Generous side of steamed spinach
 {{< /recipe >}}
 
-{{< recipe name="Tuna Salad Wrap" cal="~400" p="35g" c="40g" f="10g" >}}
-* 1 can tuna (in water)
-* 1 whole wheat tortilla
-* 1/4 avocado
-* Lettuce and tomato
+{{< recipe name="Protein Oats Smoothie (Evening or Post-Workout)" cal="~450" p="40g" c="50g" f="8g" >}}
+* 1 scoop Mutant protein powder
+* 1/2 cup rolled oats
+* 1/2 banana
+* 1 tbsp peanut butter or almond butter
+* 1 cup unsweetened almond milk
 {{< /recipe >}}
 
-{{< recipe name="Cottage Cheese with Pineapple and Walnuts" cal="~350" p="30g" c="35g" f="10g" >}}
-* 1 cup low-fat cottage cheese
-* 1/2 cup pineapple chunks
-* 10g walnuts
-{{< /recipe >}}
-
-{{< recipe name="Shrimp Tacos with Avocado Salsa" cal="~450" p="35g" c="50g" f="12g" >}}
-* 150g grilled shrimp
-* 2 corn tortillas
-* 1/4 avocado (for salsa)
-* 1/4 cup diced tomatoes and onions
-* Lettuce
-{{< /recipe >}}
-
-{{< recipe name="Baked Cod with Lentils and Spinach" cal="~500" p="40g" c="50g" f="12g" >}}
-* 150g baked cod
-* 1/2 cup cooked lentils
-* 1 cup sautéed spinach
-* Lemon and olive oil drizzle
-{{< /recipe >}}
-
-{{< recipe name="Turkey Meatballs with Zucchini Noodles" cal="~400" p="35g" c="30g" f="15g" >}}
-* 150g turkey meatballs (lean ground turkey)
-* 2 cups zucchini noodles
-* 1/2 cup marinara sauce
-{{< /recipe >}}
-
-{{< recipe name="Chicken and Hummus Plate" cal="~450" p="40g" c="45g" f="12g" >}}
-* 150g grilled chicken breast
-* 1/4 cup hummus
-* 1/2 whole wheat pita
-* Cucumber and carrot sticks
-{{< /recipe >}}
-
-{{< recipe name="Cottage Cheese Pancakes with Berries" cal="~350" p="25g" c="40g" f="10g" >}}
-* 1/2 cup cottage cheese
-* 1/2 cup oats
-* 1 egg
-* 1/2 cup mixed berries
-{{< /recipe >}}
-
-{{< recipe name="Beef Fajitas with Peppers and Onions" cal="~500" p="40g" c="50g" f="15g" >}}
-* 150g lean beef strips
-* 1/2 cup bell peppers and onions (sautéed)
-* 2 small corn tortillas
-* Salsa for topping
-{{< /recipe >}}
-
-{{< recipe name="Grilled Pork Tenderloin with Brown Rice and Green Beans" cal="~550" p="40g" c="60g" f="15g" >}}
-* 150g grilled pork tenderloin
-* 1 cup cooked brown rice
-* 1 cup steamed green beans
-{{< /recipe >}}
-
-{{< recipe name="Protein Pancakes with Almond Butter and Banana" cal="~500" p="40g" c="50g" f="15g" >}}
+{{< recipe name="Protein Pancakes with Berries & Nut Butter" cal="~460" p="38g" c="46g" f="12g" >}}
 * 1 scoop protein powder
-* 1/2 cup oats
-* 1 banana (mashed)
-* 1 tablespoon almond butter
+* 1/2 cup blended oats + 1 egg
+* 1/2 cup blueberries
+* 1 tsp almond butter spread on top
 {{< /recipe >}}
 
-{{< recipe name="Chicken Fajita Bowl with Black Beans and Corn" cal="~500" p="40g" c="60g" f="10g" >}}
-* 150g grilled chicken
-* 1/2 cup black beans
-* 1/2 cup corn
-* 1/4 avocado (optional)
-* Lettuce and salsa
+{{< recipe name="Cottage Cheese Oat Flapjacks" cal="~380" p="30g" c="40g" f="8g" >}}
+* 1/2 cup low-fat cottage cheese
+* 1/2 cup rolled oats
+* 1 whole egg + dash of vanilla & cinnamon
+* Blended and pan-cooked; topped with 1/2 cup fresh strawberries
 {{< /recipe >}}
 
-{{< recipe name="Grilled Steak with Sweet Potato Fries and Kale Salad" cal="~600" p="40g" c="60g" f="20g" >}}
-* 150g grilled lean steak (sirloin or flank)
-* 1 medium sweet potato (cut into fries and baked)
-* 1 cup kale salad with olive oil and lemon dressing
-{{< /recipe >}}
+---
 
-## Recipes
+## Meal Prep Staples
 
 {{< recipe name="Salsa de Habanero y Tomate Verde" >}}
 **Ingredientes** (para 1 kg de tomate verde):
-
 * 1 kg tomate verde
 * 2-3 chiles habaneros
 * 1/4 cebolla blanca
 * 2 dientes de ajo
 * 1 manojo pequeño de cilantro
-* Aceite vegetal
+* 1 cucharada de aceite vegetal
 * Sal al gusto
 
 **Preparación:**
-
-1. Hierve tomate, chiles, cebolla y ajo hasta suavizar.
-2. Licúa (sin el cilantro).
-3. Sofríe en aceite hasta que cambie de color.
-4. Agrega sal.
-5. Licúa el cilantro con un poco de la salsa y añade.
-6. Hierve unos minutos más.
+1. Hierve tomate, chiles, cebolla y ajo hasta que estén suaves.
+2. Licúa los ingredientes cocidos (guarda el cilantro para después).
+3. Calienta el aceite en una olla y vierte la salsa licuada para freírla hasta que cambie de color.
+4. Agrega sal al gusto.
+5. Licúa el cilantro fresco con un poco de la salsa caliente y reincorpóralo a la olla.
+6. Deja hervir a fuego bajo durante 3 a 5 minutos más.
 {{< /recipe >}}
 
-{{< recipe name="Charro Beans" >}}
-**Ingredients** (for a doubled batch, ~1.8 kg beans total):
+{{< recipe name="Charro Beans (Clean Recomp Batch)" >}}
+*High-fiber, high-potassium complex carb source. Ideal for evening refeeds.*
 
-* 900 g dried pinto beans
-* 450 g bacon, diced
-* Mexican chorizo, casing removed
-* Smoked sausage, sliced (chorizo + smoked sausage + bacon, full doubled amount)
+**Ingredients:**
+* 900g dried pinto beans
+* 200g lean bacon or turkey bacon (diced)
+* 100g Mexican chorizo (rendered and drained of excess oil)
 * 2 white onions, diced
 * 6 garlic cloves, minced
-* 4 jalapenos, sliced
+* 4 jalapeños, sliced
 * 4 roma tomatoes, diced
-* 1/2 cup cilantro, chopped fresh (kept separate, added at serving)
-* 1 cup Mexican lager
-* ~16 cups water (enough to cover by 1-1.5 inches)
-* Salt to taste (added after cooking, not before)
+* 1/2 cup chopped fresh cilantro (stirred in at the end)
+* 1 can Mexican light beer or lager
+* Water to cover by 1.5 inches
+* Salt to taste (added after beans are tender)
 
 **Preparation:**
-
-1. Rinse and soak the pinto beans.
-2. Drain and pressure cook on high for 2 minutes to soften slightly.
-3. Render bacon until crispy, add chorizo and smoked sausage, brown.
-4. Add onion, garlic, and jalapeno, cook until soft. Stir in tomato until it breaks down.
-5. Combine beans, meat mixture, and beer in the pot. Top up water to cover by 1-1.5 inches.
-6. Slow cook on low for 8 hours.
-7. In the morning, taste and adjust salt. Reheat with any remaining meat stirred in.
-8. Right before serving, stir in fresh cilantro so it stays bright instead of wilting.
+1. Rinse and soak pinto beans overnight; drain.
+2. Render bacon and chorizo; drain excess oil leaving 1 tbsp in pan.
+3. Sauté onions, garlic, and jalapeños in pan until translucent; stir in tomatoes.
+4. Transfer beans, meat mixture, beer, and water into slow cooker or heavy pot.
+5. Cook on low for 8 hours (or pressure cook for 45 minutes).
+6. Season with salt to taste once cooked; fold in fresh cilantro right before serving.
 {{< /recipe >}}
