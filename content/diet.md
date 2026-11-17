@@ -7,40 +7,36 @@ build:
 
 ## Daily Schedule
 
-{{< recipe name="0615 - 0715: Wake & Adrenal Hydration" >}}
-* 750ml water + pinch of sea salt (essential for cellular hydration and morning cortisol balance)
-{{< /recipe >}}
+### 0615 - 0715: Wake & Adrenal Hydration
 
-{{< recipe name="0715 - 0730: Pre-Workout Stim" >}}
+* 750ml water + pinch of sea salt (essential for cellular hydration and morning cortisol balance)
+
+### 0715 - 0730: Pre-Workout Stim
+
 * Black coffee or 50-100 caffeine tablet
 * 0 calories
 * Delay caffeine until to allow adenosine to clear naturally
-{{< /recipe >}}
 
-{{< recipe name="0830 - 0945: Training Session" >}}
+### 0830 - 0945: Training Session
+
 * Gym / Lifting
-{{< /recipe >}}
 
-{{< recipe name="1015 - 1030: Post-Workout Fuel (Break-Fast)" >}}
-* **Standard Daily Post-Workout:**
-    * 2 whole eggs
-    * 150g lean ground beef mix (with light mixed vegetables)
-    * 2-3 tbsp plain Greek yogurt
-    * 1 banana
-* *Biochemically optimal: muscle glycogen replenishment without causing brain fog.*
-{{< /recipe >}}
+### 1015 - 1030: Post-Workout Fuel (Break-Fast)
 
-{{< recipe name="1330: Lunch (Zero-Crash / High Focus)" >}}
-* **Protocol:** Strictly High Protein + Moderate Fat + Fibrous Greens. 
+* **Protocol:** Muscle glycogen replenishment without causing brain fog.
+* Choose the meal from the **Post-Workout Breakfast** section below.
+
+### 1330: Lunch (Zero-Crash / High Focus)
+
+* **Protocol:** Strictly High Protein + Moderate Fat + Fibrous Greens.
 * Avoid starches/grains here to eliminate the 1400 afternoon slump.
 * Choose any meal from the **Daytime / Low-Carb** database below.
-{{< /recipe >}}
 
-{{< recipe name="1800: Dinner (Volume & Recovery Refeed)" >}}
+### 1800: Dinner (Volume & Recovery Refeed)
+
 * **Protocol:** Largest volume meal of the day. Satisfies hunger, supports deep sleep by 2130, and primes muscles for tomorrow's 0830 session.
 * Choose any meal from the **Evening / Volume Carbs** database below.
 * Finish eating by 1845 to allow ~3 hours of digestion before sleep at 2130.
-{{< /recipe >}}
 
 ## Daily Macro Targets
 
@@ -51,7 +47,19 @@ build:
 
 ---
 
-## ☀️ Daytime / Low-Carb Meals (Lunches & Brain Focus)
+## 🌅 Post-Workout Breakfast (Breakfast)
+*Standard daily post-workout fuel. Muscle glycogen replenishment without causing brain fog.*
+
+{{< recipe name="Standard Daily Post-Workout" >}}
+* 2 whole eggs
+* 150g lean ground beef mix (with light mixed vegetables)
+* 2-3 tbsp plain Greek yogurt
+* 1 banana
+{{< /recipe >}}
+
+---
+
+## ☀️ Daytime / Low-Carb Meals (Lunch)
 *Use these for Lunch to guarantee no afternoon brain fog or energy crashes.*
 
 {{< recipe name="The Jungler Special (Daytime Low-Carb Edition)" cal="~450" p="45g" c="8g" f="22g" >}}
@@ -119,7 +127,7 @@ build:
 
 ---
 
-## 🌙 Evening / Volume Carbs (Dinners & Sleep Refeeds)
+## 🌙 Evening / Volume Carbs (Dinners)
 *Use these for Dinner to satisfy volume hunger, reload muscle glycogen, and support deep sleep.*
 
 {{< recipe name="Turkey & Black Bean Chili" cal="~520" p="45g" c="50g" f="12g" >}}
@@ -208,7 +216,7 @@ build:
 
 ---
 
-## Meal Prep Staples
+## Assorted Recipes
 
 {{< recipe name="Salsa de Habanero y Tomate Verde" >}}
 **Ingredientes** (para 1 kg de tomate verde):
